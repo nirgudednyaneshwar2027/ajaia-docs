@@ -1,8 +1,8 @@
 # Submission
 
 ## Links (fill in before submitting)
-- Live product: `<your deployed URL>`
-- Walkthrough video: `<your Loom/YouTube URL>` (also place in `VIDEO_URL.txt`)
+- Live product: `https://ajaia-docs-cvdi.onrender.com`
+- Walkthrough video: `https://www.loom.com/share/2bda64be476d40beaa032c41c0320e4c`
 
 ## Included
 - `server/` Express API, SQLite store, importer, tests
